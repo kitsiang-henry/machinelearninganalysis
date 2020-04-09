@@ -1,2 +1,2 @@
 # machinelearninganalysis
-Machine analysis of survey data and tweets
+Analysing survey data and tweets by using machine learning models
